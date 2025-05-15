@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\CoreBankAPITest.csproj": {}
+    "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\CoreBankAPITest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\CoreBankAPITest.csproj": {
+    "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\CoreBankAPITest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\CoreBankAPITest.csproj",
+        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\CoreBankAPITest.csproj",
         "projectName": "CoreBankAPITest",
-        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\CoreBankAPITest.csproj",
+        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\CoreBankAPITest.csproj",
         "packagesPath": "C:\\Users\\edward.lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\obj\\",
+        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edward.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj": {
-                "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj"
+              "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj": {
+                "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj": {
+    "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj",
+        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj",
         "projectName": "CoreBankAPI",
-        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj",
+        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj",
         "packagesPath": "C:\\Users\\edward.lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\obj\\",
+        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edward.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",

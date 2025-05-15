@@ -16,6 +16,9 @@ ejecueta los comando en el orden siguiente.
  dotnet ef migrations add Inicial  luego 
  dotnet ef database update
 
+ # Ejecucion de pruebas 
+Situandose en el proyecto CoreBankAPITest seleccionar la herramienta de visual estudio (ver) y seleccionar Explorador de Pruebas y luego ejecutarlas.
+
 ## API Reference
 
 #### Crear perfil del cliente

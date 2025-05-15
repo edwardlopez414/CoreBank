@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dd7PFsseQez1kGIv1d1R3gE2PwqleMUQL3jC4+QpmXxraX7ENOZTnrjGgKsA8Yvzu+YH7wKL0v8mVACL0uE9Bw==",
+  "dgSpecHash": "fzJW8AOxttfOvTHxCH2QTktc6UaC4XuAWgP6C92qbZj+C7NTaj9hMKyBgfPu5Gx7nJakLBNr4rmtnLBvnvTt7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj",
+  "projectFilePath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edward.lopez\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\edward.lopez\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

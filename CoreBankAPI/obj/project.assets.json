@@ -3756,11 +3756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj",
+      "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj",
       "projectName": "CoreBankAPI",
-      "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\CoreBankAPI.csproj",
+      "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\CoreBankAPI.csproj",
       "packagesPath": "C:\\Users\\edward.lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPI\\obj\\",
+      "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edward.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",

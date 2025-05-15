@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aja5h0pMSku9iOACYFvLBXoO36h1BRh5DQkjLt9kG3/O2euF5F+Fg0MUae+4PEyZ/SpudxmXUbd+rgYgrqKucA==",
+  "dgSpecHash": "TMZ0/Qq95N+srDK5L+t28onNx4JhEpct9ZZ58EuB2IyELfn6z7Wu/NdzrC2XVlNlrCMDUVqVU8d/rNcWqmfAxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBankAPITest\\CoreBankAPITest.csproj",
+  "projectFilePath": "C:\\Users\\edward.lopez\\source\\repos\\CoreBank\\CoreBankAPITest\\CoreBankAPITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edward.lopez\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\edward.lopez\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
