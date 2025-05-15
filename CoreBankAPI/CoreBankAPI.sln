@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreBankAPI", "CoreBankAPI.csproj", "{A163DBEB-7BB5-4DB6-92C0-D7291D71A662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBankAPITest", "..\CoreBankAPITest\CoreBankAPITest.csproj", "{B5E9E16C-E0FC-4B0E-BE24-7DF78A1ACB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A163DBEB-7BB5-4DB6-92C0-D7291D71A662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A163DBEB-7BB5-4DB6-92C0-D7291D71A662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A163DBEB-7BB5-4DB6-92C0-D7291D71A662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A163DBEB-7BB5-4DB6-92C0-D7291D71A662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E9E16C-E0FC-4B0E-BE24-7DF78A1ACB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E9E16C-E0FC-4B0E-BE24-7DF78A1ACB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E9E16C-E0FC-4B0E-BE24-7DF78A1ACB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E9E16C-E0FC-4B0E-BE24-7DF78A1ACB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C582B278-D965-4810-A282-C3AA738B4D6D}
+	EndGlobalSection
+EndGlobal
